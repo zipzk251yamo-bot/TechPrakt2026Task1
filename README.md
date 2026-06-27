@@ -26,6 +26,8 @@ TechPrakt2026Task1
 - git commit
 - git remote add
 - git push
+- git status
+- git branch
 
 ### 4. Реалізований функціонал
 Створено простий Task Tracker:
